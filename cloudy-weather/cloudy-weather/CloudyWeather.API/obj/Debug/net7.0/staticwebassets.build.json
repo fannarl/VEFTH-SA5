@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R/MjgVuRWpz1aVSkv5ByE3r4+Q7q4zRxGqBc8rYqIjA=",
+  "Source": "CloudyWeather.API",
+  "BasePath": "_content/CloudyWeather.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
